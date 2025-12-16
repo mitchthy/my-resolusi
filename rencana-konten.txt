@@ -2,6 +2,6 @@ Rencana Konten 2026
 
 - video yang sudah dibuat kontennya di notes
 - bisa konsisten sama konsep konten
-- d
-- e
-- f
+- a
+- b
+- c
